@@ -1,0 +1,7 @@
+portalocker
+beautifulsoup4
+langchain_openai
+langchain_community
+langchain
+langchain_core
+faiss-cpu
