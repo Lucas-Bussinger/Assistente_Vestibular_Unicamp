@@ -1,7 +1,0 @@
-nome,valor
-max_tokens,2400
-overlap_arquivo,250
-temperatura,0.55
-nome_modelo_llm,gpt-4-turbo
-web_page,https://www.pg.unicamp.br/norma/31594/0
-output_file,"Vestibular_Unicamp_2024.txt"
