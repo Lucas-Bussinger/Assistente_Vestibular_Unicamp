@@ -20,8 +20,6 @@ import json
 from bs4 import BeautifulSoup as bs
 
 
-
-
 # type: ignore
 
 #toda vez que o usuário passa um comando, o arquivo inteiro é recarregado pelo streamlit
@@ -61,7 +59,7 @@ if prompt:
         FuncoesComunicacao.escrever("files_apoio/openai_api_key.txt", api_key)
 
         subprocess.Popen(["python","ChatBot.py"])
-        time.sleep(24)
+        time.sleep(9)
         
 
     # adicionar mensagem do usuário para o histórico

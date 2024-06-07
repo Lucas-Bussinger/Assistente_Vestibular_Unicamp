@@ -2,6 +2,8 @@ import requests
 from bs4 import BeautifulSoup as bs
 
 
+
+
 #fazendo um webscrapping de uma página da web
 def scrap(web_page, output_file):
     page = requests.get(web_page)
