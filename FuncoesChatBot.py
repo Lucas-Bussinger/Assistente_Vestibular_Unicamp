@@ -9,8 +9,9 @@ from langchain.chains.combine_documents import create_stuff_documents_chain
 from langchain_core.prompts import MessagesPlaceholder
 
 
-def criar_llm(max_tokens, temperature, modelo = "gpt-4-turbo", env_loaded = False, api_key = ''):
 
+def criar_llm(max_tokens, temperature, modelo = "gpt-4-turbo", env_loaded = False, api_key = ''):
+    #criando o modelo de large languague model
     if not env_loaded and len(api_key) > 0:
         llm = ChatOpenAI(model=modelo,
                         api_key=api_key,
@@ -25,6 +26,7 @@ def criar_llm(max_tokens, temperature, modelo = "gpt-4-turbo", env_loaded = Fals
     return llm
 
 def documento_repartido(path_to_txt_document, chunk_size, chunk_overlap):
+    #repartindo o documento em partes menores para mais para frente estas partes serem tokenizadas
     loader = TextLoader(path_to_txt_document, encoding= 'utf-8')
     texto_integro = loader.load()
 
@@ -86,6 +88,7 @@ def criar_chain_recuperadora(llm, prompt, doc_vetorizado):
     return chain_recuperadora
 
 def processar_chat(chain_recuperadora, pergunta_usuario, historico_chat):
+    #processando um request de pergunta
     resposta_ai = chain_recuperadora.invoke({
         "input": pergunta_usuario,
         "historico_chat": historico_chat

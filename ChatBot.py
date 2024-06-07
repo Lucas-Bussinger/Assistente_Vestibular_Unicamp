@@ -30,6 +30,7 @@ if output_file not in os.listdir():
     VestScrapper.scrap(web_page, output_file)
 
 
+#pegando a openai_api_key fornecida pelo usuário
 api_key = FuncoesComunicacao.ler("files_apoio/openai_api_key.txt")
 
 

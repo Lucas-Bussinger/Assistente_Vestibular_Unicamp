@@ -1,7 +1,7 @@
 import streamlit as st
 import FuncoesComunicacao
-import os
 import time
+import subprocess
 # type: ignore
 
 #toda vez que o usuário passa um comando, o arquivo inteiro é recarregado pelo streamlit
@@ -23,7 +23,7 @@ for message in st.session_state.messages:
 prompt = st.chat_input("Mensagem: ('ativar: sua_api_key_da_openai' para ativar bot), ( 'sair' para sair ) ")
 
 if prompt:
-
+    
     #mostrar mensagem do usuário na tela
     with st.chat_message("user"):
         st.markdown(prompt)
@@ -34,21 +34,22 @@ if prompt:
     #verificar se o bot está rodando
     bot_running = FuncoesComunicacao.ler("files_apoio/bot_running.txt")
 
+    #verificar se o usuário requisitou a ativação do bot
     if last_site_read[0:6] == 'ativar' and bot_running == '0':
         
         api_key = last_site_read.split(":")[1].strip()
         FuncoesComunicacao.escrever("files_apoio/openai_api_key.txt", api_key)
-        
-        os.startfile("bot_runner.bat")
-        time.sleep(8)
+
+        subprocess.Popen(["python","ChatBot.py"])
+        time.sleep(8.5)
         
 
-    # adicionar emnsagem do usuário para o histórico
+    # adicionar mensagem do usuário para o histórico
     st.session_state.messages.append({"role": "user", "content": prompt})
     
     new_read = last_site_read
 
-    # se o bot estiver ativo e o prompr nao for um comando: rodar a resposta do bot
+    # se o bot estiver ativo e o prompt nao for um comando: rodar a resposta do bot
     if prompt != 'sair' and prompt != "ativar" and bot_running == "1":
         while new_read == last_site_read:
             new_read = FuncoesComunicacao.ler("files_apoio/last_chat_operation.txt")

@@ -5,3 +5,5 @@ langchain_community
 langchain
 langchain_core
 faiss-cpu
+os
+subprocess

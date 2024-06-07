@@ -1,15 +1,19 @@
 import FuncoesComunicacao
 import time
 import json
-import os
+import subprocess
 
+#pegando a openai_api_key fornecida pelo usuário:
 api_key = input("Digite a API_KEY da openai: ").strip()
 FuncoesComunicacao.escrever('files_apoio/openai_api_key.txt', api_key)
-os.startfile("bot_runner.bat")
-time.sleep(13.2)
+
+#iniciando o ChatBot em paralelismo com este programa
+subprocess.Popen(['python','ChatBot.py'])
+time.sleep(12)
 
 
 def pegar_resposta_ai(pergunta: str):
+    #retornando a resposta do ChatBot para a pergunta
     FuncoesComunicacao.escrever("files_apoio/last_chat_operation.txt", pergunta)
     last_read = pergunta
     while last_read == pergunta:
@@ -19,10 +23,10 @@ def pegar_resposta_ai(pergunta: str):
     
     return last_read
 
-with open('files_apoio/perguntas_respostas.json', 'r', encoding='utf-8') as file:
-    # Carregue os dados do arquivo
-    dados = json.load(file)
 
+with open('files_apoio/perguntas_respostas.json', 'r', encoding='utf-8') as file:
+    # Carreguando os dados do arquivo
+    dados = json.load(file)
 
 
 counter = 0
@@ -38,5 +42,6 @@ for dado in dados:
         file.write("\n\n" + "-/"*200 + "\n\n")
         
 
+#Desligando o Bot e retirando a chave openai_api_key do usuário da memória do sistema
 FuncoesComunicacao.escrever("files_apoio/last_chat_operation.txt", 'sair')
 FuncoesComunicacao.escrever('files_apoio/openai_api_key.txt', ' ')
