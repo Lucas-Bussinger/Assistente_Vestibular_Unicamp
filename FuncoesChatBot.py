@@ -9,7 +9,6 @@ from langchain.chains.combine_documents import create_stuff_documents_chain
 from langchain_core.prompts import MessagesPlaceholder
 
 
-
 def criar_llm(max_tokens, temperature, modelo = "gpt-4-turbo", env_loaded = False, api_key = ''):
     #criando o modelo de large languague model
     if not env_loaded and len(api_key) > 0:

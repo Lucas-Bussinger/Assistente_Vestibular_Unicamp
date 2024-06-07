@@ -7,7 +7,6 @@ import FuncoesComunicacao
 import time
 
 
-
 #pegando os parametros escolhidos para o modelo
 dict_data = {}
 with open("parametros.csv", 'r', newline='') as f:
@@ -33,8 +32,6 @@ if output_file not in os.listdir():
 
 #pegando a openai_api_key fornecida pelo usuário
 api_key = FuncoesComunicacao.ler("files_apoio/openai_api_key.txt")
-
-
 
 
 #1 - criar o modelo llm
@@ -69,9 +66,6 @@ iteration = 0
 
 FuncoesComunicacao.escrever("files_apoio/bot_running.txt", "1")
 
-
-
-
 while True:
     # para trabalhar a comunicação com o site:
     current_read_stuff = FuncoesComunicacao.ler("files_apoio/last_chat_operation.txt")
@@ -96,7 +90,6 @@ while True:
 
         historico_chat.append(HumanMessage(content = pergunta))
         historico_chat.append(AIMessage(content = resposta_ai))
-
 
         FuncoesComunicacao.escrever("files_apoio/last_chat_operation.txt", last_write_stuff)
 
