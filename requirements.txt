@@ -6,3 +6,4 @@ langchain
 langchain_core
 faiss-cpu
 requests
+streamlit
