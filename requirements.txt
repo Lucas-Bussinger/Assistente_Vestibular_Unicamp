@@ -7,3 +7,4 @@ langchain_core==0.2.3
 faiss-cpu==1.8.0
 requests==2.31.0
 streamlit==1.35.0
+ 
