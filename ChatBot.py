@@ -1,4 +1,10 @@
 import os
+os.system("pip install -r requirements.txt")
+
+
+
+
+
 import VestScrapper
 import FuncoesChatBot
 from langchain_core.messages import HumanMessage, AIMessage
@@ -6,7 +12,7 @@ import csv
 import FuncoesComunicacao
 import time
 
-os.system("pip install -r requirements.txt")
+
 
 #pegando os parametros escolhidos para o modelo
 dict_data = {}
