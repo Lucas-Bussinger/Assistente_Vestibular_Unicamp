@@ -1,4 +1,4 @@
-import VestScrapper
+#import VestScrapper
 import os
 import FuncoesChatBot
 from langchain_core.messages import HumanMessage, AIMessage
@@ -26,8 +26,8 @@ output_file = str(dict_data["output_file"])
 #isso será feito apenas se o arquivo ainda não estiver baixado, 
 #para posteriormente o modelo de LLm ser treinado com base neste arquivo
 
-if output_file not in os.listdir():
-    VestScrapper.scrap(web_page, output_file)
+#if output_file not in os.listdir():
+#    VestScrapper.scrap(web_page, output_file)
 
 
 #pegando a openai_api_key fornecida pelo usuário
