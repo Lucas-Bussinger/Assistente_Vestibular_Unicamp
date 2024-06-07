@@ -61,7 +61,7 @@ if prompt:
         FuncoesComunicacao.escrever("files_apoio/openai_api_key.txt", api_key)
 
         subprocess.Popen(["python","ChatBot.py"])
-        time.sleep(18)
+        time.sleep(24)
         
 
     # adicionar mensagem do usuário para o histórico
