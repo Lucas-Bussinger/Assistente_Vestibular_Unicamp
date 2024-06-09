@@ -1,0 +1,140 @@
+ Pergunta Número 1:
+
+Pergunta: Qual é a data do vestibular Unicamp 2024?
+
+Resposta esperada: Primeira Fase: 29/10/2023; Segunda fase: 03/11/2023 e 04/11/2023
+
+Resposta Obtida: O Vestibular Unicamp 2024 será realizado em duas fases. A 1ª fase ocorrerá no dia 29 de outubro de 2023, e a 2ª fase será nos dias 03 e 04 de dezembro de 2023.
+
+
+-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/
+
+ Pergunta Número 2:
+
+Pergunta: Quantas vagas totais possui o curso de Engenharia de Computação?
+
+Resposta esperada: Engenharia de Cmmputação: 90 vagas
+
+Resposta Obtida: O curso de Engenharia de Computação possui um total de 90 vagas.
+
+
+-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/
+
+ Pergunta Número 3:
+
+Pergunta: Quais áreas científicas serão cobradas na prova?
+
+Resposta esperada: Português, Matemática, Biologia, Química, Física, História, Geografia, Filosofia e Sociologia
+
+Resposta Obtida: As áreas científicas cobradas na prova são Matemática, Língua Portuguesa e Literaturas de Língua Portuguesa, Inglês, Biologia, Química, Física, História, Geografia, Filosofia e Sociologia. Estas áreas são avaliadas de maneira mais detalhada na segunda fase com provas de conhecimentos específicos conforme a opção de curso dos candidatos.
+
+
+-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/
+
+ Pergunta Número 4:
+
+Pergunta: Qual é o valor da taxa de inscrição para o vestibular Unicamp 2024?
+
+Resposta esperada: O valor é de R$ 192
+
+Resposta Obtida: O valor da taxa de inscrição para o Vestibular Unicamp 2024 é de R$ 192,00 (cento e noventa e dois reais).
+
+
+-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/
+
+ Pergunta Número 5:
+
+Pergunta: Como faço para solicitar isenção da taxa de inscrição?
+
+Resposta esperada: Não existe informação específica sobre isso no documento
+
+Resposta Obtida: Desculpe, mas com base nas informações disponíveis, não há detalhes sobre a solicitação de isenção completa da taxa de inscrição. No entanto, há informações sobre como solicitar a redução parcial de 50% da taxa de inscrição para candidatos que atendam a certos critérios. Para questões de isenção total, recomenda-se verificar diretamente no site da Comvest ou entrar em contato com a organização do vestibular para obter informações atualizadas e específicas sobre esse assunto.
+
+
+-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/
+
+ Pergunta Número 6:
+
+Pergunta: Como são distribuídas as questões nas provas do vestibular Unicamp 2024?
+
+Resposta esperada: Primeira Fase: abrangencia de todos os conteúdos em questões de múltipla escolha: Português, Inglês, Matemática, Biologia, Química, Física, História, Geografia, Filosofia, Sociologia
+ Segunda fase: no primeiro dia sao feitas questões discursivas de Português, sobre as leituras obrigatórias e questões inter-disciplinares
+
+Resposta Obtida: Desculpe, mas não tenho informações específicas sobre como exatamente as questões são distribuídas nas provas do Vestibular Unicamp 2024. Para detalhes precisos sobre a distribuição das questões por matéria ou seção, seria necessário consultar diretamente o Manual do Candidato ou a página oficial da Comvest, onde esses detalhes são normalmente publicados.
+
+
+-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/
+
+ Pergunta Número 7:
+
+Pergunta: Quais cursos são oferecidos no vestibular Unicamp 2024?
+
+Resposta esperada: Nem todos os cursos disponiveis estão presentes no edital, mas o modelo deveria conseguir dar exemplos dos que estão especificados no ANEXO I
+
+Resposta Obtida: Para o Vestibular Unicamp 2024, são oferecidos diversos cursos nas áreas de Ciências Humanas/Artes, Ciências Biológicas/Saúde, e Ciências Exatas/Tecnológicas. Alguns desses cursos incluem:
+
+- **Ciências Humanas/Artes**: Administração, Arquitetura e Urbanismo, Artes Cênicas, Artes Visuais, Comunicação Social - Midialogia, Ciências Econômicas, Ciências Sociais, Dança, Estudos Literários, Filosofia, Geografia, História, Letras - Licenciatura, Linguística, Música, Pedagogia - Licenciatura
+
+- **Ciências Biológicas/Saúde**: Ciências Biológicas, Ciências do Esporte, Educação Física, Enfermagem, Farmácia, Fonoaudiologia, Medicina, Nutrição, Odontologia
+
+- **Ciências Exatas/Tecnológicas**: Ciência da Computação, Engenharia (Agrícola, Ambiental, Civil, de Alimentos, de Computação, de Controle e Automação, de Manufatura, de Produção, de Telecomunicações, Elétrica, Mecânica, Química), Matemática e diversas outras especializações dentro das áreas de Física e Tecnologia.
+
+Esses são exemplos de alguns dos cursos oferecidos, cobrindo um espectro amplo de disciplinas e especializações.
+
+
+-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/
+
+ Pergunta Número 8:
+
+Pergunta: Quantas vagas estão disponíveis para cada curso?
+
+Resposta esperada: O modelo deveria filtrar estas informações a partir do ANEXO I da resolução
+
+Resposta Obtida: A distribuição do número total de vagas para cada curso na Unicamp para o Vestibular 2024 é detalhada na informação que foi disponibilizada préviamente. Aqui estão alguns exemplos específicos:
+
+- Administração (Noturno): 180 vagas
+- Arquitetura e Urbanismo (Noturno): 30 vagas
+- Ciência da Computação (Noturno): 50 vagas
+- Ciências Biológicas - Licenciatura (Noturno): 45 vagas
+- Engenharia Civil (Integral): 80 vagas
+- Medicina (Integral): 110 vagas
+- Direito (Noturno): 60 vagas
+- Psicologia (Integral): 60 vagas
+
+As vagas são divididas também entre ampla concorrência e reserva de vagas para políticas de ações afirmativas (cotas). Esse detalhamento de vagas é apenas uma pequena amostra, e para informações completas sobre todas as vagas de todos os cursos, seria necessário consultar toda a lista disponibilizada.
+
+
+-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/
+
+ Pergunta Número 9:
+
+Pergunta: Existe alguma reserva de vagas por meio de cotas?
+
+Resposta esperada: Sim, O Vestibular Unicamp 2024 possui cotas PAAIs
+
+Resposta Obtida: Sim, existe uma reserva de vagas por meio de cotas na Unicamp conforme indicado na Deliberação CONSU-A-032/2017. As cotas são destinadas a candidatos(as) autodeclarados(as) pretos(as) e pardos(as), e é necessário optar expressamente por essas vagas no momento da inscrição.
+
+De acordo com a resolução:
+- Os(as) candidatos(as) autodeclarados(as) pretos(as) e pardos(as) concorrerão a uma proporção mínima de 15% das vagas regulares em cada curso, e essa proporção pode chegar a 27,2% das vagas se houver candidatos(as) de 1ª opção que atendam aos critérios de Nota Mínima de Opção (NMO) do respectivo curso.
+
+Além disso, há parâmetros específicos como os índices de 25% a 37,2% de reserva de vagas (cotas) para autodeclarados(as) pretos(as) e pardos(as), que são obtidos através das disposições e condições detalhadas nas resoluções e deliberações citadas.
+
+
+-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/
+
+ Pergunta Número 10:
+
+Pergunta: Qual é a duração da prova?
+
+Resposta esperada: Primeira Fase: 5 horas totais de duração da prova, Segunda fase: cada dia de prova tem duração máxima de 5 horas
+
+Resposta Obtida: A duração das provas do vestibular Unicamp 2024 varia conforme a fase e o tipo de prova. De acordo com o contexto fornecido:
+
+- Na **primeira fase**, a prova de Conhecimentos Gerais, que conta com 72 questões objetivas, tem uma duração máxima de 5 (cinco) horas e um mínimo de 2 (duas) horas.
+- Na **segunda fase**, nas provas realizadas em dois dias consecutivos, cada dia de prova também tem uma duração máxima de 5 (cinco) horas e um mínimo de 2 (duas) horas.
+
+Além disso, tempo adicional pode ser concedido em casos específicos conforme previsto no regulamento.
+
+
+-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/
+

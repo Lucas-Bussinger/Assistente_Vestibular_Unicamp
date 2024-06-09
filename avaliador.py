@@ -9,7 +9,7 @@ FuncoesComunicacao.escrever('files_apoio/openai_api_key.txt', api_key)
 
 #iniciando o ChatBot em paralelismo com este programa
 subprocess.Popen(['python','ChatBot.py'])
-time.sleep(12)
+time.sleep(14)
 
 
 def pegar_resposta_ai(pergunta: str):
@@ -24,7 +24,7 @@ def pegar_resposta_ai(pergunta: str):
     return last_read
 
 
-with open('files_apoio/perguntas_respostas.json', 'r', encoding='utf-8') as file:
+with open('avaliacao/perguntas_respostas.json', 'r', encoding='utf-8') as file:
     # Carreguando os dados do arquivo
     dados = json.load(file)
 
@@ -36,7 +36,7 @@ for dado in dados:
 
     resposta_ai = pegar_resposta_ai(pergunta)
 
-    with open("files_apoio/respostas_avaliacao.txt", 'a', encoding='utf-8') as file:
+    with open("avaliacao/respostas_avaliacao.txt", 'a', encoding='utf-8') as file:
         file.write(f" Pergunta Número {counter}:\n\nPergunta: {pergunta}\n\nResposta esperada: {dado['resposta']}\n\nResposta Obtida: {resposta_ai}\n")
 
         file.write("\n\n" + "-/"*200 + "\n\n")
