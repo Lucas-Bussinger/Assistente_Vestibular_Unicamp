@@ -1,2 +1,2 @@
-# Assiatente_Vestibular_Unicamp
-Assiatente_Vestibular_Unicamp_2024
+# Assistente_Vestibular_Unicamp
+Assistente_Vestibular_Unicamp_2024
